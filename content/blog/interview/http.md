@@ -1,7 +1,7 @@
 ---
 title: 'HTTP'
 date: 2021-02-13
-category: 'development'
+category: 'interview'
 draft: false
 ---
 
